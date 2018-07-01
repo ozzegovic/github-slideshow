@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+header | title
+-------|------
+works  | :+1:
+or not | :-1:
+
 Use the left arrow to go back!
